@@ -1,6 +1,9 @@
+body {
+    font-family: Helvetica;
+}
+
 .title {
     background-image: url('../img/pattern.jpeg');
-    font-family: Helvetica;
     font-size: 100px;
     font-weight: bold;
     color: khaki;
@@ -8,13 +11,11 @@
 }
 
 .price {
-    font-family: Helvetica;
     font-weight: bold;
     color: blue;
 }
 
 h2 {
-    font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
     color: white;
